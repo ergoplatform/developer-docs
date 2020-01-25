@@ -1,44 +1,35 @@
-# Docz Gatsby Example
+## Develop
 
-This example shows you how you can use docz as a [Gatsby Theme](https://www.gatsbyjs.org/blog/2018-11-11-introducing-gatsby-themes/) inside your project.
+Requirements: 
 
-
-## Using `create-docz-app`
-
-```sh
-npx create-docz-app docz-app-gatsby --example gatsby
-# or
-yarn create docz-app docz-app-gatsby --example gatsby
-```
-
-## Download
-
-```sh
-curl https://codeload.github.com/doczjs/docz/tar.gz/master | tar -xz --strip=2 docz-master/examples/gatsby
-mv gatsby docz-gatsby-example
-cd docz-gatsby-example
-```
+* *yarn* 1.17+
+* *node* 10.16+
+___
 
 ## Setup
 
+Install dependencies
+
 ```sh
-yarn # npm i
+yarn
 ```
 
 ## Start developing
 
+Open localhost:8000
+
 ```sh
-yarn dev # npm run dev
+yarn dev
 ```
 
-## Build
+## Build at /public
 
 ```sh
-yarn build # npm run build
+yarn build
 ```
 
 ## Serve built app
 
 ```sh
-yarn serve # npm run serve
+yarn serve
 ```

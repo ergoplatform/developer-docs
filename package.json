@@ -1,7 +1,6 @@
 {
-  "name": "docz-example-gatsby",
+  "name": "ergoplatform-developers-doc",
   "private": true,
-  "description": "Example of how to integrate docz with gatsby as a theme",
   "version": "2.0.0-rc.41",
   "keywords": [
     "gatsby",
@@ -9,11 +8,11 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pedronauck/docz/issues"
+    "url": "https://github.com/ergoplatform/developer-docs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pedronauck/docz.git"
+    "url": "https://github.com/ergoplatform/developer-docs"
   },
   "scripts": {
     "dev": "gatsby develop",

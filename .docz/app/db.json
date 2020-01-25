@@ -1,0 +1,77 @@
+{
+  "config": {
+    "title": "Ergoplatform developers documentation",
+    "description": "My awesome app using docz",
+    "menu": [
+      "ErgoNode",
+      "ErgoScript",
+      "Appkit",
+      "Explorer",
+      "ErgoTool"
+    ],
+    "version": "2.0.0-rc.41",
+    "repository": "https://github.com/ergoplatform/developer-docs",
+    "native": false,
+    "themeConfig": {
+      "initialColorMode": "dark"
+    },
+    "separator": "-",
+    "ignore": [
+      "README.md"
+    ],
+    "public": "/public"
+  },
+  "entries": [
+    {
+      "key": "pages/ErgoScript/ergoscript_by_example.mdx",
+      "value": {
+        "name": "ErgoScript By Example",
+        "menu": "ErgoScript",
+        "id": "355ac86e8fa526a32f6b89288a48a61c",
+        "filepath": "pages/ErgoScript/ergoscript_by_example.mdx",
+        "fullpath": "/Users/usovdmitrij/projects/ergo-docs/pages/ErgoScript/ergoscript_by_example.mdx",
+        "link": "https://github.com/ergoplatform/developer-docs/edit/master/pages/ErgoScript/ergoscript_by_example.mdx",
+        "slug": "pages-ergo-script-ergoscript-by-example",
+        "route": "/pages-ergo-script-ergoscript-by-example",
+        "headings": [
+          {
+            "slug": "home",
+            "depth": 1,
+            "value": "Home"
+          },
+          {
+            "slug": "consistency",
+            "depth": 2,
+            "value": "Consistency"
+          }
+        ]
+      }
+    },
+    {
+      "key": "pages/ErgoScript/reference.mdx",
+      "value": {
+        "name": "Reference",
+        "menu": "ErgoScript",
+        "id": "81c6a2643a80b52f705facf49a64b610",
+        "filepath": "pages/ErgoScript/reference.mdx",
+        "fullpath": "/Users/usovdmitrij/projects/ergo-docs/pages/ErgoScript/reference.mdx",
+        "link": "https://github.com/ergoplatform/developer-docs/edit/master/pages/ErgoScript/reference.mdx",
+        "slug": "pages-ergo-script-reference",
+        "route": "/pages-ergo-script-reference",
+        "headings": [
+          {
+            "slug": "home",
+            "depth": 1,
+            "value": "Home"
+          },
+          {
+            "slug": "consistency",
+            "depth": 2,
+            "value": "Consistency"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
