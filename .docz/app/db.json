@@ -23,6 +23,56 @@
   },
   "entries": [
     {
+      "key": "pages/AppKit/reference.mdx",
+      "value": {
+        "name": "AppKit Example",
+        "menu": "Appkit",
+        "id": "796f995735a53cd2979d5485b68deae0",
+        "filepath": "pages/AppKit/reference.mdx",
+        "fullpath": "/Users/usovdmitrij/projects/ergo-docs/pages/AppKit/reference.mdx",
+        "link": "https://github.com/ergoplatform/developer-docs/edit/master/pages/AppKit/reference.mdx",
+        "slug": "pages-app-kit-reference",
+        "route": "/pages-app-kit-reference",
+        "headings": [
+          {
+            "slug": "home",
+            "depth": 1,
+            "value": "Home"
+          },
+          {
+            "slug": "consistency",
+            "depth": 2,
+            "value": "Consistency"
+          }
+        ]
+      }
+    },
+    {
+      "key": "pages/ErgoNode/reference.mdx",
+      "value": {
+        "name": "ErgoNode Example",
+        "menu": "ErgoNode",
+        "id": "6f613888e951dbb747f665fd500a8f69",
+        "filepath": "pages/ErgoNode/reference.mdx",
+        "fullpath": "/Users/usovdmitrij/projects/ergo-docs/pages/ErgoNode/reference.mdx",
+        "link": "https://github.com/ergoplatform/developer-docs/edit/master/pages/ErgoNode/reference.mdx",
+        "slug": "pages-ergo-node-reference",
+        "route": "/pages-ergo-node-reference",
+        "headings": [
+          {
+            "slug": "home",
+            "depth": 1,
+            "value": "Home"
+          },
+          {
+            "slug": "consistency",
+            "depth": 2,
+            "value": "Consistency"
+          }
+        ]
+      }
+    },
+    {
       "key": "pages/ErgoScript/ergoscript_by_example.mdx",
       "value": {
         "name": "ErgoScript By Example",
@@ -58,6 +108,56 @@
         "link": "https://github.com/ergoplatform/developer-docs/edit/master/pages/ErgoScript/reference.mdx",
         "slug": "pages-ergo-script-reference",
         "route": "/pages-ergo-script-reference",
+        "headings": [
+          {
+            "slug": "home",
+            "depth": 1,
+            "value": "Home"
+          },
+          {
+            "slug": "consistency",
+            "depth": 2,
+            "value": "Consistency"
+          }
+        ]
+      }
+    },
+    {
+      "key": "pages/ErgoTool/reference.mdx",
+      "value": {
+        "name": "ErgoTool Example",
+        "menu": "ErgoTool",
+        "id": "e21299746a064109e9f0ceea1734aa57",
+        "filepath": "pages/ErgoTool/reference.mdx",
+        "fullpath": "/Users/usovdmitrij/projects/ergo-docs/pages/ErgoTool/reference.mdx",
+        "link": "https://github.com/ergoplatform/developer-docs/edit/master/pages/ErgoTool/reference.mdx",
+        "slug": "pages-ergo-tool-reference",
+        "route": "/pages-ergo-tool-reference",
+        "headings": [
+          {
+            "slug": "home",
+            "depth": 1,
+            "value": "Home"
+          },
+          {
+            "slug": "consistency",
+            "depth": 2,
+            "value": "Consistency"
+          }
+        ]
+      }
+    },
+    {
+      "key": "pages/Explorer/reference.mdx",
+      "value": {
+        "name": "Explorer example",
+        "menu": "Explorer",
+        "id": "7557848d98f34ce45756c56eaea7b52f",
+        "filepath": "pages/Explorer/reference.mdx",
+        "fullpath": "/Users/usovdmitrij/projects/ergo-docs/pages/Explorer/reference.mdx",
+        "link": "https://github.com/ergoplatform/developer-docs/edit/master/pages/Explorer/reference.mdx",
+        "slug": "pages-explorer-reference",
+        "route": "/pages-explorer-reference",
         "headings": [
           {
             "slug": "home",
