@@ -1,6 +1,6 @@
 # gatsby files
 .cache/
-public
+.docz
 
 # dependencies
 node_modules

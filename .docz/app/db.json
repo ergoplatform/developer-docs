@@ -21,7 +21,9 @@
     ],
     "public": "/public",
     "base": "/developer-docs",
-    "dest": "/docs"
+    "dest": "/docs",
+    "propsParser": false,
+    "indexHtml": "public/index.html"
   },
   "entries": [
     {
@@ -174,6 +176,5 @@
         ]
       }
     }
-  ],
-  "props": []
+  ]
 }

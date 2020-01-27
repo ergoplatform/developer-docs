@@ -16,7 +16,7 @@
   },
   "scripts": {
     "dev": "gatsby develop",
-    "build": "gatsby build",
+    "build": "npx docz build",
     "serve": "gatsby serve"
   },
   "dependencies": {

@@ -13,5 +13,7 @@ export default {
     "ErgoTool"
   ],
   base: '/developer-docs',
-  dest: '/docs'
+  dest: '/docs',
+  propsParser: false,
+  indexHtml: 'public/index.html',
 }
