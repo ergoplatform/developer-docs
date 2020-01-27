@@ -19,7 +19,9 @@
     "ignore": [
       "README.md"
     ],
-    "public": "/public"
+    "public": "/public",
+    "base": "/developer-docs",
+    "dest": "/docs"
   },
   "entries": [
     {

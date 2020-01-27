@@ -12,4 +12,6 @@ export default {
     "Explorer",
     "ErgoTool"
   ],
+  base: '/developer-docs',
+  dest: '/docs'
 }
