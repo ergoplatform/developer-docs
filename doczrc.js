@@ -12,7 +12,7 @@ export default {
     "Explorer",
     "ErgoTool"
   ],
-  base: '/developer-docs',
+  base: '/developer-docs/',
   dest: '/docs',
   propsParser: false,
   indexHtml: 'public/index.html',
