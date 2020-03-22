@@ -8,28 +8,12 @@ ___
 
 ## Setup
 
-Install dependencies
-
-```sh
-yarn
-```
+For install dependencies print command `yarn` into terminal.
 
 ## Start developing
 
-Open localhost:8000
+For start develop need to print command `yarn dev` and site will be available at ***localhost:8000***
 
-```sh
-yarn dev
-```
+## After develop 
 
-## Build at /public
-
-```sh
-yarn build
-```
-
-## Serve built app
-
-```sh
-yarn serve
-```
+After develop need to print command `yarn build` into terminal, this command will create new `public` folder and it need to commit into github.
