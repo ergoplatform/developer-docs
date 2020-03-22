@@ -6,14 +6,14 @@ ___
 
 ## Process:
 
-### Setup
+### 1. Setup
 
-For install dependencies print command `yarn` into terminal.
+For install project dependencies print command `yarn` into terminal.
 
-### Start develop
+### 2. Start develop
 
 For start develop need to print command `yarn dev` and site will be available at ***localhost:8000***
 
-### After develop 
+### 3. After develop 
 
 After develop need to print command `yarn build` into terminal, this command will create new `public` folder and it need to commit into github.
