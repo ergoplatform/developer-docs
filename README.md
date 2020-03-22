@@ -10,7 +10,7 @@ ___
 
 For install dependencies print command `yarn` into terminal.
 
-## Start developing
+## Start develop
 
 For start develop need to print command `yarn dev` and site will be available at ***localhost:8000***
 
